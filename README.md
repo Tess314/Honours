@@ -4,7 +4,6 @@ Hausa-English Machine Translation in Python
 Hausa text from: https://github.com/wmt-conference/wmt21-news-systems/blob/main/txt/references/newstest2021.en-ha.ref.A.ha <br />
 English text from: https://github.com/wmt-conference/wmt21-news-systems/blob/main/txt/sources/newstest2021.en-ha.src.en
 
-translation1 adapted from https://towardsdatascience.com/neural-machine-translation-with-python-c2f0a34f7dd <br />
 translation2 adapted from https://towardsdatascience.com/how-to-build-an-encoder-decoder-translation-model-using-lstm-with-python-and-keras-a31e9d864b9b
 
 Offloading issue solved by: <br />
