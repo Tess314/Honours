@@ -8,4 +8,5 @@ translation model adapted from https://towardsdatascience.com/how-to-build-an-en
 
 Offloading issues solved by: <br />
 No caching: https://pip.pypa.io/en/stable/topics/caching/ <br />
-TF error resolved: https://forum.brainypi.com/t/attributeerror-module-tensorflow-api-v2-compat-has-no-attribute-v2/52/3
+TF error resolved: https://forum.brainypi.com/t/attributeerror-module-tensorflow-api-v2-compat-has-no-attribute-v2/52/3 <br />
+Saving trained model: https://www.projectpro.io/recipes/save-trained-model-in-python
